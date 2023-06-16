@@ -1,0 +1,33 @@
+.home{
+	margin:0 auto;
+	padding:0 auto;
+	box-sizing:box-border;
+	width:90%;
+	}
+.main_container{
+	background-color:white;
+	}
+.container{
+	display:flex;
+	justify-content:space-evenly;
+	}
+.container_1{
+	margin:10px 0;
+	padding:20px 0;
+	}
+.container_2{
+	padding:20px 0;
+	margin:10px 0;
+	}
+#icon{
+	color: #ffff00;
+	font-size:26px;
+	font-weight:400;
+	border:none;
+	}
+	p{
+	margin:0 10px 0 30px;
+	}
+	
+	
+
